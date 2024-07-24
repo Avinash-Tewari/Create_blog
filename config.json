@@ -1,0 +1,12 @@
+{
+    "param":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/coding world",
+        "prod_uri":"mysql://root:@localhost/coding world",
+        "fb_url":"https://facebook.com/coding world",
+        "tw_url":"https://twitter.com/coding world",
+        "git_url":"https://github.com/coding world",
+        "blog_name":"just fun"
+    }
+}
