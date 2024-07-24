@@ -1,5 +1,3 @@
-Flask==2.0.2
-Flask-SQLAlchemy==3.0.0
-Flask-Mail==0.9.1
-
-
+Flas
+Flask-SQLAlchemy
+Flask-Mail
