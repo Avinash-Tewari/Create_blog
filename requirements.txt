@@ -1,3 +1,4 @@
-Flas
+Flask
 Flask-SQLAlchemy
 Flask-Mail
+mysqlclient
